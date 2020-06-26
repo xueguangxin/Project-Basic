@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font: 16px/20px "Microsoft YaHei";
+}
+
+h1{
+    font-weight: normal;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{
+  /* 首行缩进 */
+  text-indent: 2rem;
+}
+button{
+    font-weight: bold;
+    width: 45pxpx;
+    height: 30px;
+}
+.change{
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+}
+.change a{
+    color: blue;
+    text-decoration: none;
+}
+.pic{
+    text-align: center;
+}
+.footer{
+    color: grey;
+    font-size: 12px;
+}
